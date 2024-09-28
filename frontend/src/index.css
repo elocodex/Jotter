@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root{
+   --primary : 51, 51, 51,
+   --secondary: 
+} */
+
+
+@layer base{
+    html{
+        font-family: "Poppins","sans-serif";
+    }
+    body{
+        background-color: #f5f5f5;
+        overflow-x: hidden;
+    }
+}
+
+@layer components {
+    .input-box{
+        @apply w-full text-sm bg-transparent border-[1px] px-5 py-3 rounded mb-4 my-2 outline-none
+    }
+    .btn-primary{
+        @apply w-full text-sm bg-primary text-white p-2 rounded my-1 hover:bg-[#141414]
+    }
+    .icon-btn{
+        @apply text-xl text-slate-300 cursor-pointer hover:text-primary
+    }
+    .input-label{
+        @apply text-xs text-slate-400
+    }
+    .spinner {
+        position: relative;
+        width: 22.4px;
+        height: 22.4px;
+        margin: 500px auto;
+     }
+     
+     .spinner::before,
+     .spinner::after {
+        content: '';
+        width: 100%;
+        height: 100%;
+        display: block;
+        animation: spinner-b4c8mmmd 0.5s backwards, spinner-49opz7md 1.25s 0.5s infinite ease;
+        border: 5.6px solid #333333;
+        border-radius: 50%;
+        box-shadow: 0 -33.6px 0 -5.6px #333333;
+        position: absolute;
+     }
+     
+     .spinner::after {
+        animation-delay: 0s, 1.25s;
+     }
+     
+     @keyframes spinner-b4c8mmmd {
+        from {
+           box-shadow: 0 0 0 -5.6px #333333;
+        }
+     }
+     
+     @keyframes spinner-49opz7md {
+        to {
+           transform: rotate(360deg);
+        }
+     }
+
+
+    .spinner-loader {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: conic-gradient(#0000 10%,#ffffff);
+    -webkit-mask: radial-gradient(farthest-side,#0000 calc(100% - 3.8px),#000 0);
+    animation: spinner-zp9dbg 1s infinite linear;
+    }
+
+    @keyframes spinner-zp9dbg {
+    to {
+        transform: rotate(1turn);
+    }
+    }
+
+    .scrollbar-hide::-webkit-scrollbar {
+        display: none;
+    }
+    
+    .scrollbar-hide {
+        -ms-overflow-style: none; /* Internet Explorer 10+ */
+        scrollbar-width: none; /* Firefox */
+    }
+    .blob {
+        width: 166px;
+        height: 166px;
+        background: #ffffff;
+        border-radius: 50%;
+        filter: blur(0.5px) contrast(10);
+        animation: blob-rokv0k 3s infinite linear;
+     }
+     
+     @keyframes blob-rokv0k {
+        12.5% {
+           border-radius: 37% 63% 70% 30% / 30% 62% 38% 70%;
+        }
+     
+        25% {
+           border-radius: 50% 50% 70% 30% / 52% 62% 38% 48%;
+        }
+     
+        37.5% {
+           border-radius: 33% 67% 18% 82% / 52% 75% 25% 48%;
+        }
+     
+        50% {
+           border-radius: 73% 27% 18% 82% / 52% 32% 68% 48%;
+        }
+     
+        62.5% {
+           border-radius: 73% 27% 74% 26% / 64% 32% 68% 36%;
+        }
+     
+        75% {
+           border-radius: 84% 16% 15% 85% / 55% 79% 21% 45%;
+        }
+     
+        87.5% {
+           border-radius: 12% 88% 69% 31% / 10% 66% 34% 90%;
+        }
+     }
+}

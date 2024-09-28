@@ -1,0 +1,23 @@
+{
+  "language": "Français",
+  "dashboard": "Tableau de bord",
+  "hi": "Salut",
+  "account": "Compte",
+  "accountDetails": "Détails du compte",
+  "fullname": "Nom complet",
+  "notesCreated": "Notes créées",
+  "accountCreatedOn": "Compte créé le",
+  "email": "Email",
+  "accountDeactivation": "Désactivation du compte",
+  "logout": "Déconnexion",
+  "deleteAccount": "Supprimer le compte",
+  "settings": "Paramètres",
+  "langsettings": "Paramètres de langue",
+  "changeLang": "Changer les paramètres de langue",
+  "tagLine": "Notez-le, gardez-le pour toujours",
+  "builtBy": "Construit par",
+  "searchPlaceholder": "Rechercher des notes",
+  "noNote": "Vous n'avez pas encore créé de note! Cliquez sur l'icône Plus pour ajouter une note",
+  "errorNote": "Oups! Erreur lors de la récupération des détails. Réessayez en actualisant la page",
+  "queryNote": "Aucune note trouvée! Essayez de saisir le bon mot-clé"
+}

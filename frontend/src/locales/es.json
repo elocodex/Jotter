@@ -1,0 +1,23 @@
+{
+  "language": "Español",
+  "dashboard": "Tablero",
+  "hi": "Hola",
+  "account": "Cuenta",
+  "accountDetails": "Detalles de la cuenta",
+  "fullname": "Nombre completo",
+  "notesCreated": "Notas creadas",
+  "accountCreatedOn": "Cuenta creada el",
+  "email": "Correo electrónico",
+  "accountDeactivation": "Desactivación de la cuenta",
+  "logout": "Cerrar sesión",
+  "deleteAccount": "Eliminar cuenta",
+  "settings": "Configuraciones",
+  "langsettings": "Configuración de idioma",
+  "changeLang": "Cambiar la configuración de idioma",
+  "tagLine": "Anótalo, consérvalo para siempre",
+  "builtBy": "Construido por",
+  "searchPlaceholder": "Buscar notas",
+  "noNote": "¡Aún no has creado una nota! Haz clic en el ícono de más para agregar una nota",
+  "errorNote": "¡Ups! Error al obtener los detalles. Vuelva a intentarlo actualizando la página",
+  "queryNote": "¡No se encontraron notas! Intente ingresar la palabra clave correcta"
+}

@@ -1,0 +1,23 @@
+{
+  "language": "Igbo",
+  "dashboard": "Dashboard",
+  "hi": "Nnọọ",
+  "account": "Akaụntụ",
+  "accountDetails": "Nkọwa Akaụntụ",
+  "fullname": "Aha zuru ezu",
+  "notesCreated": "Ndetu Emebere",
+  "accountCreatedOn": "Akaụntụ Emebere Na",
+  "email": "Email",
+  "accountDeactivation": "Na-ewepụ Akaụntụ",
+  "logout": "Pụọ",
+  "deleteAccount": "Kpochapụ Akaụntụ",
+  "settings": "Nhazi",
+  "langsettings": "Nhazi Asụsụ",
+  "changeLang": "Gbanwee Nhazi Asụsụ",
+  "tagLine": "Dee ya, chee ya ruo mgbe ebighị ebi",
+  "builtBy": "E wuru site",
+  "searchPlaceholder": "Chọọ Ndetu",
+  "noNote": "Ị naghị arụ ọrụ ọ bụla! Pịa akara mgbakwunye iji tinye ndekọ",
+  "errorNote": "O doro anya! Mperi n'iwepụta nkọwa. Ghachite page ọzọ",
+  "queryNote": "Enweghị Ndekọ dị! Gbalịa itinye mkpụrụokwu kwesịrị ekwesị"
+}
