@@ -1,0 +1,23 @@
+{
+  "language": "Yorùbá",
+  "dashboard": "Dasibodu",
+  "hi": "Báwo",
+  "account": "Àkọọlẹ",
+  "accountDetails": "Àlàyé Àkọọlẹ",
+  "fullname": "Orúkọ Kíkún",
+  "notesCreated": "Àwọn Akojọ Ojúṣe Tí A Dá",
+  "accountCreatedOn": "Àkọọlẹ Dá Lórí",
+  "email": "Emeli",
+  "accountDeactivation": "Ìṣíṣe Àkọọlẹ Dúró",
+  "logout": "Jádé",
+  "deleteAccount": "Pa Àkọọlẹ Rẹ Kú",
+  "settings": "Àwọn Eto",
+  "langsettings": "Àwọn Eto Èdè",
+  "changeLang": "Yí Ìṣíṣe Èdè Padà",
+  "tagLine": "Ko O Ràn, Màa Lo Láéláé",
+  "builtBy": "Tí a dá",
+  "searchPlaceholder": "Wa Àwọn Nóta",
+  "noNote": "Ẹ kò tíì dá Ohùn kankan! Tẹ ẹ bọtini + láti dá Nóta",
+  "errorNote": "Ìṣòro nígbà ti à ń ra Àlàyé. Gbìyànjú pípada nipa ṣiṣẹ̀ ojúewé",
+  "queryNote": "Ẹ kò rí Ohùn! Gbìyànjú nígbà tí ẹ ń tẹ Bàbà Ọ̀rọ̀ tó tọ́"
+}

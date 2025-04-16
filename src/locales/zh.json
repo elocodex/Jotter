@@ -1,0 +1,23 @@
+{
+  "language": "中文",
+  "dashboard": "仪表板",
+  "hi": "你好",
+  "account": "帐户",
+  "accountDetails": "帐户详细信息",
+  "fullname": "全名",
+  "notesCreated": "创建的笔记",
+  "accountCreatedOn": "帐户创建于",
+  "email": "电子邮件",
+  "accountDeactivation": "帐户停用",
+  "logout": "登出",
+  "deleteAccount": "删除账户",
+  "settings": "设置",
+  "langsettings": "语言设置",
+  "changeLang": "更改语言设置",
+  "tagLine": "记下它，永远保留",
+  "builtBy": "由…建造",
+  "searchPlaceholder": "搜索笔记",
+  "noNote": "您还没有创建笔记！点击加号图标添加笔记",
+  "errorNote": "哎呀！获取详细信息时出错。通过刷新页面重试",
+  "queryNote": "未找到笔记！尝试输入正确的关键字"
+}

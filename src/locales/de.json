@@ -1,0 +1,19 @@
+{
+    "language": "Deutsch",
+    "dashboard": "Dashboard",
+    "hi": "Hallo",
+    "account": "Konto",
+    "accountDetails": "Kontodetails",
+    "fullname": "Vollständiger Name",
+    "notesCreated": "Erstellte Notizen",
+    "accountCreatedOn": "Konto erstellt am",
+    "email": "E-Mail",
+    "accountDeactivation": "Kontodeaktivierung",
+    "logout": "Abmelden",
+    "deleteAccount": "Konto löschen",
+    "settings": "Einstellungen",
+    "langsettings": "Spracheinstellungen",
+    "changeLang": "Spracheinstellungen ändern",
+    "tagLine": "Schreib es auf, behalte es für immer"
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "language": "English",
+    "dashboard": "Dashboard",
+    "hi": "Hi",
+    "account": "Account",
+    "accountDetails":"Account Details",
+    "fullname": "Full Name",
+    "notesCreated": "Notes Created",
+    "accountCreatedOn": "Account Created On",
+    "email" : "Email",
+    "accountDeactivation": "Account Deactivation",
+    "logout": "Logout",
+    "deleteAccount": "Delete Account",
+    "settings": "Settings",
+    "langsettings": "Language Settings",
+    "changeLang": "Change Language",
+    "tagLine": "Jot It Down, Keep It Forever",
+    "builtBy": "Built by",
+    "searchPlaceholder": "Search Notes",
+    "noNote" : "You haven't Created a Note Yet! Click on the Plus Icon To Add a Note",
+    "errorNote": "Oops! Error Fetching Details. Retry By refreshing page",
+    "queryNote": "No Notes Found! Try Entering Correct Keyword"
+  }
+  
